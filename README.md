@@ -1,9 +1,9 @@
-# Olá, eu sou Brunna! 👋
+# Olá, eu sou Brunna Gabriella! 👋
 
-Sou estudante de **Sistemas de Informação na UNEB** e apaixonado por desenvolvimento de software e análise de dados. Atualmente estou focado no ecossistema **Java** (Mobile e Backend) e expandindo conhecimentos em Ciência de Dados.
+Sou estudante de **Sistemas de Informação na UNEB** e apaixonada por desenvolvimento de software e análise de dados. Atualmente estou focada no ecossistema **Java** (Mobile e Backend) e expandindo conhecimentos em Ciência de Dados.
 
-- 🔭 Atualmente trabalhando no projeto **Projeto Trilhas (Android Nativo)**.
-- 🌱 Estudando **Spring Boot, Python, Business Intelligence, Statistics**.
+- 🔭 Atualmente trabalhando no projeto **[Projeto Trilhas](https://github.com/brugabi/ProjetoTrilhas)**.
+- 🌱 Estudando **Spring Boot, Python e Business Intelligence**.
 - 🎓 Cursando Sistemas de Informação na **Universidade do Estado da Bahia (UNEB)**.
 - 💬 Me pergunte sobre **Java, POO e SQL**.
 
@@ -11,7 +11,7 @@ Sou estudante de **Sistemas de Informação na UNEB** e apaixonado por desenvolv
   <a href="https://www.linkedin.com/in/brunnagabriella" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:bgabriellams@GMAIL.COM">
+  <a href="mailto:bgabriellams@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
