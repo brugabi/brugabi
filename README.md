@@ -36,11 +36,11 @@ Sou estudante de **Sistemas de Informação na UNEB** e apaixonado por desenvolv
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brugabi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brugabi&layout=compact&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brugabi&theme=dracula" />
 </div>
